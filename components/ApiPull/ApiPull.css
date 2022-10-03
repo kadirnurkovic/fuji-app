@@ -1,0 +1,18 @@
+.image-class{
+    width: 300px;
+    height: 300px;
+}
+.posts{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.flex-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.button-class{
+    height: 30px;
+    width: 30px;
+}
